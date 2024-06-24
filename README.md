@@ -3,4 +3,4 @@ Official implementation for TPAMI 2024 paper "Instance Consistency Regularizatio
 
 The code is under preparation and is coming soon.
 
-This work is based on our base 3D instance segmentation model [DKNet](https://github.com/W1zheng/DKNet). You can review this repository first.
+This work is based on our 3D instance segmentation model DKNet. Please review this [repository](https://github.com/W1zheng/DKNet) first for more information.
